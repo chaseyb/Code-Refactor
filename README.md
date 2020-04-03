@@ -3,7 +3,7 @@
 # Getting Started 
 
 - open gitbash on Windows or Terminal on Mac
-- git clone 
+- git clone https://github.com/chaseyb/Code-Refactor.git
 - enjoy 
 
 ## Description 
